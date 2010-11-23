@@ -237,11 +237,7 @@
 			,$navigationContainer=$('<div></div>').css(options.css.navigationContainer)
 			,$why=$('<a href="#" style="position:absolute;right:40px;bottom:35px;border-bottom:2px solid transparent;"><img src="'+options.imgPath+'/why.png"/></a>')
 			,$close=$('<a href="#" style="position:absolute;right:20px;top:20px;"><img src="'+options.imgPath+'/icon_close.png"/></a>')
-<<<<<<< HEAD
 			,$info=$('<div style="position:fixed;left:30px;bottom:30px;"><a href="https://github.com/jolic/ieSucks" style="font-size:1em;color:#bbc;text-decoration:none;">Like it? Get it and use it for free here!</a></div>')
-=======
-			,$info=$('<div style="position:fixed;left:30px;bottom:30px;"><a href="" style="font-size:1em;color:#bbc;text-decoration:none;">Like it? Get it and use it for free here!</a></div>')
->>>>>>> 9a1b51590719f10fc9c01dd49070ebeba6c8a383
 			,$button=$('<a href="#"></a>').css(options.css.navigationButtonAnchor).append($('<span></span>').css(options.css.navigationButtonSpan).css(options.css.navigationButtonSpanNormal))
 			,$source=$('<div></div>')
 			,$noteContent=$note.children().eq(0)
