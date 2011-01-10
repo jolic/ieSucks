@@ -91,7 +91,9 @@ A live example can be seen at:
 
 http://apartmanblanca.com.hr
 
-You need to visit this site with the Internet Explorer to see the note.
+You need to visit this site with the Internet Explorer to see the note or call in the JS console of Safari/Chrome:
+
+$(function(){$("#bottomContainer").ieSucks({css:{note:{zIndex:20,right:"-8px",bottom:"30px"}},showAlsoIfBrowserIsNotIE:true})});
 
 
 ---------------------------------------------------------------------------
