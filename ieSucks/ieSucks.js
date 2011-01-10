@@ -5,10 +5,12 @@
 	Licensed under the MIT-License:
 	http://www.opensource.org/licenses/mit-license.php
 
+	https://github.com/jolic/ieSucks
+	
 	Use it for free in non-commercial and/or commercial projects
 	as long as you keep everything inside <notice></notice> as is.
 
-	Every css style is defined as inline style so no css definitions will
+	Every css style is defined as inline style, so no css definitions will
 	be overriden.
 	
 	Usage examples:
@@ -31,7 +33,7 @@
 	See options inside the plugin.
 
  ****************************************************************** </notice> */
-;'use strict';
+
 (function($){
 	$.fn.ieSucks=function(options){
 		if (0===this.length) return this;
