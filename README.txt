@@ -99,6 +99,7 @@ $('#bottomContainer').ieSucks({
 	,showAlsoIfBrowserIsNotIE:true
 })
 
+-> You need to click on the "Why?" link to see the animated headlines!
 
 ---------------------------------------------------------------------------
 Comments/bugs/wishes:
