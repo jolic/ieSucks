@@ -89,7 +89,7 @@ Live example:
 
 A live example can be seen at:
 
-http://apartmanblanca.com.hr
+http://jolic.github.io/
 
 You need to visit this site with the Internet Explorer to see the note 
 or call in the JS console of Safari/Chrome:
